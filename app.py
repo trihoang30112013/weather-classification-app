@@ -63,7 +63,6 @@ Bạn có thể sử dụng thanh menu bên trái để truy cập các tính n�
 <li>🔮 Predict — Dự đoán ảnh thời tiết</li>
 <li>🖼️ Dataset — Xem ảnh mẫu trong dataset</li>
 <li>📊 Dashboard — Thống kê mô hình</li>
-<li>🎯 Training — Huấn luyện mô hình</li>
 </ul>
 
 </div>
